@@ -1,10 +1,12 @@
 ![image](https://user-images.githubusercontent.com/108592629/234983588-d97ae24d-93fd-4dd9-bcbb-561d27d145b4.png)
 
 # ETL pipeline
+
 is a set of processes which extract the data from an input source, transform the data and loading it into an output destination such as datamart, database and data warehouse for analysis, reporting and data synchronization.
 
 
-![33](https://user-images.githubusercontent.com/108592629/235002812-0d46092e-4e7a-4ff6-9b87-8138ccac50f0.png)
+
+![image](https://user-images.githubusercontent.com/108592629/235002938-e5e3a900-79a4-41ca-9542-da2b2b1f425d.png)
 
 
 
@@ -28,8 +30,10 @@ This is the final phase of the ETL process. Here, the information is available i
 * Hooks
 * Plugins
 * Connections
+
 > 
-![3](https://user-images.githubusercontent.com/108592629/235002406-8197821e-8914-473b-8131-1de3c1cabed9.png)
+![33](https://user-images.githubusercontent.com/108592629/235002894-2394500d-d2c8-4baa-bb0f-00ca3d257bdf.png)
+
 
 
 
