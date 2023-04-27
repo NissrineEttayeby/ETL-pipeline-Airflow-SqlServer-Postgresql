@@ -18,8 +18,10 @@ is a relational database management system (RDBMS) used as a source from where w
 is a powerful, open source object-relational database system ,its able to be used for both OLTP and OLAP. And it is used as the datawarehouse or the target where we load the data extracted from Sql Server in this project .
 
 # For more informations :
-[Apache Airflow](https://airflow.apache.org/) !
-[Sql Server](https://www.microsoft.com/en-us/sql-server/) !
-[Postgresql](https://www.postgresql.org/) !
+[Apache Airflow](https://airflow.apache.org/) 
+
+[Sql Server](https://www.microsoft.com/en-us/sql-server/) 
+
+[Postgresql](https://www.postgresql.org/) 
 
 
