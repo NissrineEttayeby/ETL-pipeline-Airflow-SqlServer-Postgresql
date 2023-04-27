@@ -2,6 +2,8 @@
 
 # ETL pipeline
 is a set of processes which extract the data from an input source, transform the data and loading it into an output destination such as datamart, database and data warehouse for analysis, reporting and data synchronization.
+
+
 ![image](https://user-images.githubusercontent.com/108592629/235002341-10c60edc-2949-4978-b659-ea5379845b8e.png)
 
 
