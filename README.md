@@ -2,6 +2,8 @@
 
 # ETL pipeline
 is a set of processes which extract the data from an input source, transform the data and loading it into an output destination such as datamart, database and data warehouse for analysis, reporting and data synchronization.
+![image](https://user-images.githubusercontent.com/108592629/235002341-10c60edc-2949-4978-b659-ea5379845b8e.png)
+
 
 ### Extract
 In this stage, data is extracted from sql server database.
@@ -23,8 +25,9 @@ This is the final phase of the ETL process. Here, the information is available i
 * Hooks
 * Plugins
 * Connections
-> DAG 
-![image](https://user-images.githubusercontent.com/108592629/235002094-cd1f1fb5-95ea-4f5d-8179-707ec4b8a4aa.png)
+> 
+![3](https://user-images.githubusercontent.com/108592629/235002406-8197821e-8914-473b-8131-1de3c1cabed9.png)
+
 
 
 # Microsoft Sql server
