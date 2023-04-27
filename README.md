@@ -4,12 +4,12 @@
 
 # Components of Airflow
 
-*DAGs
-*Tasks
-*The operators
-*Hooks
-*Plugins
-*Connections
+* DAGs
+* Tasks
+* The operators
+* Hooks
+* Plugins
+* Connections
 
 # Microsoft Sql server
 is a relational database management system (RDBMS) used as a source from where we extract the data using python scripts and airflow.
@@ -18,8 +18,8 @@ is a relational database management system (RDBMS) used as a source from where w
 is a powerful, open source object-relational database system ,its able to be used for both OLTP and OLAP. And it is used as the datawarehouse or the target where we load the data extracted from Sql Server in this project .
 
 # For more informations :
-*https://airflow.apache.org/
-*https://www.microsoft.com/en-us/sql-server/
-*https://www.postgresql.org/
+* https://airflow.apache.org/
+* https://www.microsoft.com/en-us/sql-server/
+* https://www.postgresql.org/
 
 
