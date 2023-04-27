@@ -4,26 +4,28 @@
 is a set of processes which extract the data from an input source, transform the data and loading it into an output destination such as datamart, database and data warehouse for analysis, reporting and data synchronization.
 
 ### Extract
-In this stage, data is extracted from various heterogeneous sources such as business systems, marketing tools, sensor data, APIs, and transaction databases.
+In this stage, data is extracted from sql server database.
 
 ### Transform
-The second step is to transform the data into a format that is used by different applications. In this stage, we change the data from the format where the data was stored in the format used in the different applications. After successful extraction of the data, we will convert the data into a form which is used for standardized processing. There are various tools used in the ETL process, such as Data Stage, Informatica, or SQL Server Integration Services.
+The second step is to transform the data into a format that is used by Postgresql. In this stage, we convert the data into a form which is used for standardized processing. 
 
 ### Load
-This is the final phase of the ETL process. Here, the information is available in consistent format. Now we can obtain any specific piece of data and can compare it to another part of data.
-Data Warehouse can either be automatically updated or manually triggered.
+This is the final phase of the ETL process. Here, the information is available in consistent format. Now we can obtain any specific piece of data. And we can use it for different applications.
 
 
 # Apache Airflow
  is an open-source platform for developing, scheduling, and monitoring batch-oriented workflows.
 
-# Components of Airflow
+## Components of Airflow
 * DAGs
 * Tasks
 * The operators
 * Hooks
 * Plugins
 * Connections
+> DAG 
+![image](https://user-images.githubusercontent.com/108592629/235002094-cd1f1fb5-95ea-4f5d-8179-707ec4b8a4aa.png)
+
 
 # Microsoft Sql server
 is a relational database management system (RDBMS) used as a source from where we extract the data using python scripts and airflow.
